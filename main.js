@@ -29,6 +29,6 @@ function calcularCIFCiclo(precioFobProducto) {
     console.log("Precio Fob del producto: $" + precioFobProducto);
     console.log("CIF del 12%: $" + cifCalculado);
   } else {
-    console.log("El valor ingresado no es válido.");
+    console.log("El valor FOB ingresado no es válido.");
   }
   
